@@ -1,4 +1,4 @@
-/*//write a program to hello  // problem 1
+//write a program to hello  // problem 1
 #include<stdio.h>
 int main()
 {
@@ -318,7 +318,7 @@ int main()
     x=3+4-7*8/5%10;
     printf("x=%d",x);
     return 0;
-}*/
+}
 
 
 
